@@ -1,6 +1,6 @@
 # Stairway To Heaven
 
-Build a staircase with divs! 
+Build a staircase with divs!
 
 Apply `width`, `height`, `background-color`, `margin` (no `padding`!) and `box-sizing`.
 
